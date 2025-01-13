@@ -32,10 +32,6 @@ Detect fraudulent credit card transactions to minimize financial losses and impr
 - **Coggle Root Cause Analysis**: A Coggle chart highlights the root causes of fraud and mitigation strategies.
 - **Cost-Benefit Analysis**: Evaluation of the financial savings achieved by reducing false negatives.
 
-### Deployment
-
-Deployment on platforms like Heroku using a streamlined pipeline for real-time fraud detection.
-
 ### Documentation
 
 Detailed project report and PowerPoint presentation included for stakeholders.
